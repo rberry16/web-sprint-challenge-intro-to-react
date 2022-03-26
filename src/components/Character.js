@@ -9,7 +9,7 @@ justify-content: center;
 padding: 8px;
 color: white;
 font-weight: bold;
-background-color: 'crimson';
+
 
 p {
   justify-content: space-between;
